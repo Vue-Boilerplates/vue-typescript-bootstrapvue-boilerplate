@@ -3,7 +3,7 @@
     <Navbar />
     <b-jumbotron
       header="Vue Boilerplates"
-      lead="vue-boilerplate-bootstrap-ts"
+      lead="vue-boilerplate-bootstrapvue-ts"
       header-tag="h2"
       fluid
       class="m-0 p-0 p-3"
@@ -13,7 +13,7 @@
         <img width="130px" height="auto" src="/img/vue-boilerplates.svg" />
       </b-row>
       <p class="m-0 p-0">
-        Vue + Bootstrap + Typescript + Lazy loading and code splitting
+        Vue + BootstrapVue + Typescript + Lazy loading and code splitting
       </p>
     </b-jumbotron>
     <b-container>
