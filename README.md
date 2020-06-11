@@ -1,4 +1,4 @@
-# Vue Boilerplates : vue-boilerplate-bootstrap-ts
+# Vue Boilerplates : vue-boilerplate-bootstrapvue-ts
 
 > A vue.js project with Latest Vue + Typescript + BootstrapVue + Lazy loading and code splitting
 
@@ -34,7 +34,7 @@ With dynamic imports, all pages including their dependency libraries are exporte
 
 ```bash
 # 1. Clone the repository.
-git clone https://github.com/Vue-Boilerplates/vue-boilerplate-bootstrap-ts.git my-new-project
+git clone https://github.com/Vue-Boilerplates/vue-boilerplate-bootstrapvue-ts.git my-new-project
 
 # 2. Enter your newly-cloned folder.
 cd my-new-project
