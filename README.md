@@ -68,8 +68,28 @@ npm run serve
 npm run build
 ```
 
+```bash
+## Lint - Autofixes by scans your code to find issues that can lead to bugs or inconsistencies and style
+
+# using yarn
+yarn lint
+
+# using npm
+npm run lint
+```
+
+## Recommended VScode extensions (optional)
+ - [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur)
+ - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+ - [ESlint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+ - [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
+ - [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
+ - [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
+ - [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
+ - [vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
+
 ## Coming Soon!
- - More Bolierplates - Android and iOS Apps
+ - More Vue Boilerplates - Auth, Android and iOS Apps
  - Detailed Documentation
  - Practical Examples
 
