@@ -5,7 +5,6 @@ import router from "@/router";
 import store from "@/store";
 import { BootstrapVue, BootstrapVueIcons } from "bootstrap-vue"; //BootstrapVueIcons are optional
 import "@/assets/css/styles.scss";
-Vue.prototype.$mapFields = Vue;
 
 Vue.use(BootstrapVue);
 
