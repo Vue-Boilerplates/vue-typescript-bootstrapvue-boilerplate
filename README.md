@@ -1,4 +1,6 @@
 # Vue Boilerplates : vue-typescript-bootstrapvue-boilerplate
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FVue-Boilerplates%2Fvue-typescript-bootstrapvue-boilerplate.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FVue-Boilerplates%2Fvue-typescript-bootstrapvue-boilerplate?ref=badge_shield)
+
 
 > A vue.js project with Latest Vue + Typescript + BootstrapVue + Lazy loading and code splitting
 
@@ -102,3 +104,6 @@ npm run lint
 
 # License
 [MIT](LICENSE)
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FVue-Boilerplates%2Fvue-typescript-bootstrapvue-boilerplate.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FVue-Boilerplates%2Fvue-typescript-bootstrapvue-boilerplate?ref=badge_large)
