@@ -3,7 +3,7 @@
 > A vue.js project with Latest Vue + Typescript + BootstrapVue + Lazy loading and code splitting
 
 ## Why to choose Vue Boilerplates?
-> While mobile-first approach becomes a standard and uncertain network conditions are something we should always take into consideration, it’s harder and harder to keep your application loading fast. Hence **Vue Boilerplates** was built with vue.js performance optimization techniques that make them loading instantly and perform smooth :rocket:.  
+> While mobile-first approach becomes a standard and uncertain network conditions are something we should always take into consideration, it’s harder and harder to keep your application loading fast. Hence **Vue Boilerplates** are built with vue.js performance optimization techniques that make them loading instantly and perform smooth :rocket:.  
 **Please consider becoming a [donor](https://opencollective.com/vue-boilerplates)**. :pray:
 
 ## Features
@@ -101,4 +101,6 @@ npm run lint
  :two_hearts: - [Become a sponser](https://opencollective.com/vue-boilerplates)  
 
 # License
-[MIT](LICENSE)
+Released under the MIT [License](./LICENSE)  
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FVue-Boilerplates%2Fvue-typescript-bootstrapvue-boilerplate.svg?type=small)](https://app.fossa.com/api/projects/git%2Bgithub.com%2FVue-Boilerplates%2Fvue-typescript-bootstrapvue-boilerplate.svg?type=small)
