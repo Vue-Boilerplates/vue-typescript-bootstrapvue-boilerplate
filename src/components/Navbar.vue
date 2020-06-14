@@ -28,7 +28,7 @@
         <b-nav-item
           right
           target="_blank"
-          href="https://github.com/Vue-Boilerplates/vue-boilerplate-bootstrapvue-ts"
+          href="https://github.com/Vue-Boilerplates/vue-typescript-bootstrapvue-boilerplate"
         >
           v1.0.0
         </b-nav-item>
